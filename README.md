@@ -10,12 +10,12 @@ In this course we learned about the benefits of functional programming. What the
 2. Configuracion inicial del gradle en [Github](https://github.com/sierisimo/job-search/tree/configuracion-inicial-gradle)
 3. [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/#section=windows)
 
-**Challenge**
+## Challenge
 
 This challenge was about develop an app to be able to search a job in github jobs. To do it we were provided with an initial configuration of gradle to work on.
 
 
-**Output**
+## Output
 
 ![Alt text](http://i.imgur.com/JlZsNgX.png?raw=true "JavaHome")
 
