@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# job-search
-Busqueda de trabajo en job.github.com desde terminal con Java
-=======
 # JAVA Academy: Java Funcional
 
 ## Introduction
@@ -23,4 +19,3 @@ This challenge was about develop an app to be able to search a job in github job
 
 ![Alt text](http://i.imgur.com/JlZsNgX.png?raw=true "JavaHome")
 
->>>>>>> 747e295368e18c74ead26fd3714285cd6503a508
